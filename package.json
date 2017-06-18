@@ -1,0 +1,28 @@
+{
+  "name": "crud-mongodb",
+  "version": "1.0.0",
+  "description": "Node.js CRUD application using MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "node",
+    "mongodb"
+  ],
+  "author": "Mukesh Chapagain",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "express-flash": "0.0.2",
+    "express-mongo-db": "^2.0.3",
+    "express-session": "^1.15.3",
+    "express-validator": "^3.2.0",
+    "method-override": "^2.3.9",
+    "mongodb": "^2.2.28"
+  }
+}
