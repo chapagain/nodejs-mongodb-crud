@@ -3,6 +3,8 @@ Node.js, Express & MongoDB: Simple Add, Edit, Delete, View (CRUD)
 
 A simple and basic CRUD application (Create, Read, Update, Delete) using Node.js, Express, MongoDB & EJS Templating Engine.
 
+**Blog:** [Node.js, Express & MongoDB: Simple Add, Edit, Delete, View (CRUD)](http://blog.chapagain.com.np/node-js-express-mongodb-simple-add-edit-delete-view-crud/)
+
 **Start MongoDB server**
 
 ```
